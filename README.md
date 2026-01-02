@@ -1,7 +1,7 @@
 # NiRos-Template
 ### راهنما هست تو خود کد و میتونید راحت شخصی سازی کنید❤️
 ### در لاین 253 میتونید کلمه  NiRos رو تغییر دهید
-### Template for rebecca and marzban panel
+### Template for rebecca,marzban and pasarguard panel
 ![Preview](https://github.com/Deepside-607/NiRos-Template/blob/main/IMG_20251220_182226.jpg?raw=true)
 ### مرزبان:  
 ### ابتدا قالب را با لینک زیر دانلود کنید

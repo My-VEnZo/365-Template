@@ -1,13 +1,11 @@
-# NiRos-Template
-### راهنما هست تو خود کد و میتونید راحت شخصی سازی کنید❤️
-### در لاین 253 میتونید کلمه  NiRos رو تغییر دهید
+# 365-Template
 ### Template for rebecca,marzban and pasarguard panel
-![Preview](https://github.com/Deepside-607/NiRos-Template/blob/main/IMG_20251220_182226.jpg?raw=true)
+
 ### مرزبان:  
 ### ابتدا قالب را با لینک زیر دانلود کنید
 
 ```bash
-sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/Deepside-607/NiRos-Template/main/index.html
+sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/My-VEnZo/365-Template/main/index.html
 ```
 ### سپس دستور زیر را بزنید تا تمپلیت ست شود
 
@@ -28,7 +26,7 @@ marzban restart
 ### ابتدا قالب را با لینک زیر دانلود کنید
 
 ```bash
-sudo wget -N -P /var/lib/rebecca/templates/subscription/ https://raw.githubusercontent.com/Deepside-607/NiRos-Template/main/index.html
+sudo wget -N -P /var/lib/rebecca/templates/subscription/ https://raw.githubusercontent.com/My-VEnZo/365-Template/main/index.html
 ```
 ### سپس دستور زیر را بزنید تا تمپلیت ست شود
 
@@ -49,7 +47,7 @@ rebecca restart
 ### ابتدا قالب را با لینک زیر دانلود کنید
 
 ```bash
-sudo wget -N -P /var/lib/pasarguard/templates/subscription/ https://raw.githubusercontent.com/Deepside-607/NiRos-Template/main/index.html
+sudo wget -N -P /var/lib/pasarguard/templates/subscription/ https://raw.githubusercontent.com/My-VEnZo/365-Template/main/index.html
 ```
 ### سپس دستور زیر را بزنید تا تمپلیت ست شود
 
